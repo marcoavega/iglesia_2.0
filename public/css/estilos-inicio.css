@@ -1,0 +1,19 @@
+.container-principal {
+    background: #02a3bb;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    padding: 1% .5%;
+}
+
+.tarjeta {
+    padding-bottom: 1%;
+}
+
+.tarjetavideos {
+    margin: 0%;
+    padding: 0%;
+}
+
+img.pequeña {
+    height: 300px;
+}
